@@ -1,0 +1,15 @@
+[1mdiff --git a/indec.html b/indec.html[m
+[1mindex 1753087..62fe0a3 100644[m
+[1m--- a/indec.html[m
+[1m+++ b/indec.html[m
+[36m@@ -1,4 +1,7 @@[m
+ <p>hii!![m
+ </p>[m
+ <br>[m
+[31m-<p> I am Ritesh </p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p> I am Ritesh </p>[m
+[32m+[m[32m<P>[m
+[32m+[m[32m    helllllooooooooooooooooooooooooooooooooooooooooooooooo[m
+[32m+[m[32m</P>[m
+\ No newline at end of file[m
